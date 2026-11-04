@@ -6,7 +6,7 @@
                          "name":  "Ra mắt D0F Notes: viết tay mượt, ghim đề, vẽ hình Vật Lý và cập nhật trong app",
                          "notes":  "Bản đầu tiên trên GitHub. Từ nay app tự báo và tự cập nhật bản mới.\n- Viết tay mượt bằng bút: bút bi, bút máy, bút lông, bút dạ quang, có lực nhấn; nét tạm tự mờ để giảng bài.\n- Ghim đề: chia đôi màn hình, giữ đề đứng yên ở trên, viết lời giải ở dưới.\n- Vẽ hình Vật Lý: mạch điện, dụng cụ thí nghiệm, hình cơ học, hệ trục và đồ thị, chèn thẳng vào bài (VIP).\n- Khung chữ có công thức toán; kiểu Chuẩn hoá tự dàn câu hỏi và đáp án (VIP).\n- Mở PDF để viết lên, xuất bản viết ra PDF.\n- Chọn, kéo, co giãn, xoay và lật nét viết, ảnh; chèn nhiều ảnh một lúc (VIP).\n- Giấy 4 ô ly, kẻ ngang, ô vuông, chấm, giấy tự tạo hoặc ảnh làm giấy; tiêu đề trang và số trang.\n- Sao lưu lên Google Drive và Thùng rác (VIP).\n- Tuỳ chỉnh thanh công cụ, phím tắt, con trỏ bút, âm thanh khi viết.\n- Dùng trên Windows và máy tính bảng Android.\nĐang dùng file .exe cũ: chạy bộ cài D0F-Notes_0.0.2_x64-setup.exe, bản viết và cài đặt vẫn còn nguyên.",
                          "date":  "2026-11-04",
-                         "open":  false,
+                         "open":  true,
                          "windows":  true,
                          "android":  {
                                          "version_code":  2,
